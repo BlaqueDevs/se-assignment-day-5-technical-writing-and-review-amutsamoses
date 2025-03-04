@@ -3,13 +3,11 @@
 # SE-DAY5-Technical-Writing
 
 ## 1. How can understanding the expertise level of your audience shape the presentation of technical information?
-### Key Points:
-    - For tech experts, you can use precise technical terms and assume a base level of understanding.
-    * For regular folks, you need to simplify language, avoid jargon, and provide context and explanations.
-    * Understanding audience expertise will help you to adjust the detail and the level of complexity of your writing.
+   * * For tech experts, you can use precise technical terms and assume a base level of understanding.
+   * * For regular folks, you need to simplify language, avoid jargon, and provide context and explanations.
+   * * Understanding audience expertise will help you to adjust the detail and the level of complexity of your writing.
 
-* **Question:** What are some strategies to tailor your content to different audience types?
-* **Answer:**
+* ## 2. What strategies can be used to adapt content for different audience types?
     * **Define your audience:** Clearly identify who you are writing for.
     * **Use appropriate language:** Adjust vocabulary and sentence structure.
     * **Provide relevant examples:** Use examples that resonate with the audience.
